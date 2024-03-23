@@ -1,3 +1,3 @@
-#wo-makers-code
+wo-makers-code
 
-##repositório do curso de git e github ministrado pela WoMakersCode
+repositório do curso de git e github ministrado pela WoMakersCode
